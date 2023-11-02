@@ -173,3 +173,5 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 *.nupkg
+/.vs/Fuzzy-Logic-Sharp/v17
+/Solution/.vs/FLS/FileContentIndex
